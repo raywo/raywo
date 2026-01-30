@@ -1,8 +1,8 @@
-## 🎓 Trainer | Fullstack Developer | Competence Center Lead at ARS
+## 🎓 Lead Trainer | Fullstack Developer | Head of ATVANTAGE Academy
 
-**🌟 25+ years of experience in teaching and software development**
+**🌟 25+ years of experience in software development and IT training**
 
-Hi there! 👋 I’m a passionate software developer and trainer with over 25 years of expertise in programming and education. I started my career as a freelancer, working independently for nearly 20 years to help clients build robust and efficient software solutions. For the past 5 years, I’ve been part of ARS, where I lead the Competence Center and train developers in cutting-edge technologies.
+Hi there! 👋 I'm a passionate software developer and IT trainer who combines hands-on development expertise with a deep commitment to education. After nearly 20 years as a freelance trainer and developer, I joined ARS in 2020. Since 2023, I've led the training department—first as head of the ARS Competence Center, and since October 2025, following the merger of five companies into ATVANTAGE, as Head of ATVANTAGE Academy.
 
 ### 🔧 Skills & Expertise
 
@@ -26,4 +26,4 @@ Hi there! 👋 I’m a passionate software developer and trainer with over 25 ye
 Apart from my professional life, I enjoy exploring the world of embedded programming, particularly with **ESP32** microcontrollers. Whether it’s diving into IoT projects or building custom solutions for fun, this hands-on work keeps me creatively challenged.
 
 ### 🌱 Let's Connect
-Feel free to explore my repositories and projects here on GitHub. I’m excited to collaborate, share knowledge, and learn from other developers across the community!
+Feel free to explore my repositories. I'm always open to collaboration and knowledge sharing!
